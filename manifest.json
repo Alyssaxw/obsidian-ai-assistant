@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-ai-assistant",
+  "name": "AI Assistant",
+  "version": "1.0.0",
+  "description": "AI assistant plugin with @ai trigger, supports multiple models (OpenAI, Claude, Gemini, OpenRouter, Bedrock)",
+  "author": "AI Assistant",
+  "authorUrl": "",
+  "isDesktopOnly": true,
+  "minAppVersion": "0.15.0"
+}
